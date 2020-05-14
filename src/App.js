@@ -1,5 +1,5 @@
 import React from 'react';
-import PersonCard from './components/PersonCard';
+import PersonCard from './components/PersonCardFunc';
 import './App.css';
 
 function App() {
